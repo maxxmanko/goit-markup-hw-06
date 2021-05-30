@@ -1,1 +1,1 @@
-# goit-markup-hw-06
+Посилання на завдання: https://maxxmanko.github.io/goit-markup-hw-06/
